@@ -1,6 +1,7 @@
+[![MasterHead](https://res.cloudinary.com/proxify-io/image/upload/f_auto,dpr_auto,c_fill,q_auto:best,w_1728,h_720/v1/cms/images/articles/IU9eF4pezrNs9QyRGdNckyvoC5GgLF6MpKmlzbwE.png)](https://rishavchanda.io)
 <h1 align="center">Hola 👋, soy Katherina</h1>
 <h3 align="center">Estudiante de segundo año de Tecnicatura Superior en Desarrollo de Software</h3>
-![gitbanner](https://github.com/user-attachments/assets/f6c0ed7c-0771-4a5e-a5fe-ef0c14b408b4)
+
 
 - 🔭 Me encuentro trabajando en los siguientes proyectos:
 - [Essenciana](https://github.com/GabrielaBaldissone/grupo_8_essenciana.git)
