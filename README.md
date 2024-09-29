@@ -8,7 +8,7 @@
 - [FullStackBlog](https://github.com/Katherinajuarez/FullStackBlog.git)
 
 - 🌱 Actualmente estoy aprendiendo **Javascript, Java, MySQL**
-- 🌱 Además me encuentro cursando:
+Además me encuentro cursando:
 - **Programación web Full Stack en Digital House**
 - **MERN Stack en Polo Tecnológico La Rioja**
 
