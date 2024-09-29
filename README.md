@@ -3,15 +3,16 @@
 <h3 align="center">Estudiante de segundo año de Tecnicatura Superior en Desarrollo de Software</h3>
 
 
-- 🔭 Me encuentro trabajando en los siguientes proyectos:
+<h3>🔭 Me encuentro trabajando en los siguientes proyectos: </h3>
+
 - [Essenciana](https://github.com/GabrielaBaldissone/grupo_8_essenciana.git)
 - [FullStackBlog](https://github.com/Katherinajuarez/FullStackBlog.git)
 
-- 🌱 Actualmente estoy aprendiendo **Javascript, Java, MySQL**
-<h4>Además me encuentro cursando: </h4>
-- **Tecnicatura Superior en Desarrollo de Software - ISFTP Otto Krause**
-- **Programación web Full Stack - Digital House**
-- **MERN Stack - Polo Tecnológico La Rioja**
+<h3>Actualmente cursando: </h3>
+
+- ***Tecnicatura Superior en Desarrollo de Software*** - ISFTP Otto Krause
+- ***Programación web Full Stack*** - Digital House
+- ***MERN Stack*** - Polo Tecnológico La Rioja
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
